@@ -22,4 +22,12 @@ For more on the evaluation of this project check: https://www.kaggle.com/c/blueb
 
 ## 4. Features
 
-Kaggle provides a [data dictionary]() detailing all of the features of the dataset.
+Kaggle provides a [data dictionary](https://github.com/rohanj98/Bulldozer-price-prediction/blob/main/data/Data%20Dictionary.xlsx) detailing all of the features of the dataset.
+
+## Modelling:
+I have used [RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html) from Scikit-learn library 
+
+## Hyperparamter Tuning
+Tuning the paramters of of our model to improve predictoin accuracy.
+
+A walkthrough notebook for the project can be found [here](https://github.com/rohanj98/Bulldozer-price-prediction/blob/main/bulldozer-price-prediction.ipynb)
